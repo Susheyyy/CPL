@@ -6,7 +6,7 @@ void main ()
     int year, rem;
     clrscr();
     
-    printf ("Enter year");
+    printf ("Enter year: \n");
     scanf("%d",&year);
     rem = year%100;
 
