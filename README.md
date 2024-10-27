@@ -14,7 +14,7 @@ Programs covered in CPL curriculum.
 
 5. Design and develop a flowchart or an algorithm that takes three coefficients (a,b, and c) of a Quadratic Equation (𝑎𝑥<sup>2</sup> + 𝑏𝑥 + 𝑐 = 0) as input and compute all possible roots. Implement a C program for the developed flowchart/algorithm and execute the same to output the possible roots for a given set of coefficients with appropriate messages. 
 
-6.Write a program to calculate 1/1!+2/2!+3/3!+……+n/n!.
+6. Write a program to calculate 1/1!+2/2!+3/3!+……+n/n!.
 
 7. Write a menu driven program to perform simple arithmetic operations based on the user's choice. The user will indicate the operation to be performed using the signs e.g. + for addition, etc. Write an algorithm and draw flowchart for same.
 
