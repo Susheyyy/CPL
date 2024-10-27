@@ -8,11 +8,11 @@ Programs covered in CPL curriculum.
 (a) using modulus operator 
 (b) using conditional operator.
 
-3 Design and develop a C program to read a year as an input and find whether it is leap year or not. Also consider the end of the centuries. Write algorithm and draw flowchart for the same.
+3. Design and develop a C program to read a year as an input and find whether it is leap year or not. Also consider the end of the centuries. Write algorithm and draw flowchart for the same.
 
-4 Write a C program to find the whether the number is an AMSTRONG number or not
+4. Write a C program to find the whether the number is an AMSTRONG number or not
 
-5 Design and develop a flowchart or an algorithm that takes three coefficients (a,b, and c) of a Quadratic Equation (𝑎𝑥<sup>2</sup> + 𝑏𝑥 + 𝑐 = 0) as input and compute all possible roots. Implement a C program for the developed flowchart/algorithm and execute the same to output the possible roots for a given set of coefficients with appropriate messages. 
+5. Design and develop a flowchart or an algorithm that takes three coefficients (a,b, and c) of a Quadratic Equation (𝑎𝑥<sup>2</sup> + 𝑏𝑥 + 𝑐 = 0) as input and compute all possible roots. Implement a C program for the developed flowchart/algorithm and execute the same to output the possible roots for a given set of coefficients with appropriate messages. 
 
 6.Write a program to calculate 1/1!+2/2!+3/3!+……+n/n!.
 
