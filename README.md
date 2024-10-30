@@ -22,6 +22,10 @@ Programs covered in CPL curriculum.
 
 9. Write a program to print given number pattern using for loop.
 
+10. Write a C program to find maximum and minimum between two numbers using functions. Write algorithm and draw flowchart for the same.
+
+11. Write C program to find GCD of two integers by using recursive function.
+
 
 
 
