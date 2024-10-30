@@ -1,49 +1,36 @@
 #include <stdio.h>
 #include <conio.h>
 
-int max (int,int);
-int min (int, int);
+int gcd (int,int);
 
 int main()
 {
-    int num1, num2, maximum, minimum;
+    int num1, num2, result;
     printf("Enter two numbers. \n");
     scanf("%d %d", &num1, &num2);
 
-    maximum = max (num1, num2);
-    minimum = min (num1, num2);
+    result = gcd(num1,num2);
 
-    printf("\n Maximum = %d \n", maximum);
-    printf("\n Minimum = %d \n", minimum);
-
+    printf("\n The GCD for the entered numbers is %d \n", result);
     return 0;
 }
 
-int max (int x, int y)
+int gcd (int num1, int num2)
 {
-    int result;
+    while(num1!=num2)
     
-    if (x>y)
+    if (num1>num2)
     {
-        result =x;
+        return gcd(num1-num2,num2);
     }
-    else{
-        result = y;
+    else if (num2>num1)
+    {
+       return gcd(num1,num2-num1);
     }
-    return result;
+   else
+   {
+    printf("Invalid Input.");
+   }
+   return num1;
 }
 
-int min (int x, int y)
-{
-    int result;
-    
-    if (x<y)
-    {
-        result =x;
-    }
-    else
-    {
-        result = y;
-    }
-    return result;
-}
