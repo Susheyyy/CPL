@@ -20,7 +20,7 @@ int main()
 
         case '-' :
         result = num1 - num2;
-        printf("The subraction of the entered numbers is %lf \n" , result);
+        printf("The subtraction of the entered numbers is %lf \n" , result);
         break;
 
         case '*' :
