@@ -40,7 +40,6 @@ int main()
         printf("The quotient is %lf \n", result);
             }
         }
-   
         break;
 
         default:
@@ -48,5 +47,4 @@ int main()
         break;
     }
     return 0;
-
 }
