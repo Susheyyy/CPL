@@ -26,6 +26,24 @@ Programs covered in CPL curriculum.
 
 11. Write C program to find GCD of two integers by using recursive function.
 
+12 Write a C program to find both the largest and smallest number in a list of integers. Write algorithm and draw flowchart for the same.
+
+13 Develop, implement and execute a C program that reads two matrices A (m x n) and B (p x q) and compute product of matrices A and B. Read matrix A and matrix B in row major order and in column major order respectively. Print both the input matrices and resultant matrix with suitable headings and output should be in matrix format only.
+
+14 Write a Program for deletion of an element from the specified location from Array.
+
+15 Write a C program using user defined functions to determine whether the given string is palindrome  or not.
+
+16 Write C program to count the number of lines, words and characters in a given text.
+
+17 Write a program to swap two numbers using a function. Pass the values to be swapped to this function using the call-by-value method and call-by-reference method.
+
+18 Demonstrate structure and Union to specify data on students like Roll-number, Name, Department, Course, Year of Joining and Print the data of a student according to roll number.
+
+19 Write a program to copy one array to another using pointer.
+
+20 Write a program to read a file and display its contents along with line numbers before each line
+
 
 
 
