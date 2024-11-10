@@ -19,11 +19,11 @@ void main()
 
     if(temp ==sum)
     {
-        printf ("Number is an armstrong number %d",temp);
+        printf ("%d is an armstrong number.",temp);
     }
     else 
     {
-        printf ("Number is not an armstrong number %d",temp);
+        printf ("%d is not an armstrong number.",temp);
     }
 
 }
