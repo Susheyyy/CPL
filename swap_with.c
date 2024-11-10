@@ -5,13 +5,13 @@ void main ()
 {
     int a, b, temp;
     
-    printf("Enter two numbers.");
-    scanf("%d %d, &a, &b");
+    printf("Enter two numbers. \n");
+    scanf("%d %d", &a, &b);
 
     temp = a;
     a = b;
     b = temp;
 
-    printf("Number after swapping %d and %d, a,b");
-
+    printf("Number after swapping %d and %d", a,b);
+getch();
 }
