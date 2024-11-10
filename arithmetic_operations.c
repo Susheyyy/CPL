@@ -8,7 +8,7 @@ int main()
     printf("Enter two numbers. \n ");
     scanf ("%lf %lf", &num1, &num2);
     
-    printf("Enter the operand. \n '+' for addition \n '-' for subtraction \n '*' for multiplication \n '/' for division \n");
+    printf("Enter the operator. \n '+' for addition \n '-' for subtraction \n '*' for multiplication \n '/' for division \n");
     scanf("%s", &op);
 
     switch (op)
