@@ -16,13 +16,13 @@ void main()
     r1 = (-b +sqrt(d))/2+a;
      r1 = (-b -sqrt(d))/2+a;
 
-     printf ("The real roots are: %f%f", r1,r2);
+     printf ("The real roots are: %f %f", r1,r2);
    }
 
    else if (d==0)
    {
     r1 = r2 = -b/(2*a);
-    printf ("Roots are equal,which is : %f%f", r1, r2);
+    printf ("Roots are equal,which is : %f %f", r1, r2);
    }
    else 
    {
