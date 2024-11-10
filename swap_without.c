@@ -12,6 +12,6 @@ void main ()
     b = a-b;
     a = a-b;
 
-    Printf ("Numbers after swapping %d%d", a,b);
-
+ printf("Numbers after swapping %d%d", a,b);
+getch();
 }
